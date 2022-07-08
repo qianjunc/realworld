@@ -3,8 +3,8 @@ package links
 import (
 	"log"
 
-	database "github.com/qianjunc/realworld/internal/pkg/db/mysql"
-	"github.com/qianjunc/realworld/internal/users"
+	database "github.com/qianjunc/hackernews/internal/pkg/db/migrations/mysql"
+	"github.com/qianjunc/hackernews/internal/users"
 )
 
 // #1
