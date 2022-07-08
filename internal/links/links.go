@@ -3,8 +3,8 @@ package links
 import (
 	"log"
 
-	database "github.com/glyphack/go-graphql-hackernews/internal/pkg/db/mysql"
-	"github.com/glyphack/go-graphql-hackernews/internal/users"
+	database "github.com/qianjunc/realworld/internal/pkg/db/mysql"
+	"github.com/qianjunc/realworld/internal/users"
 )
 
 // #1
