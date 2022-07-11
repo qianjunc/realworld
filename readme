@@ -1,1 +1,13 @@
-readme
+#Readme
+
+## Run this code
+
+if it can't generate and have the following error:
+
+`merging type systems failed: unable to build input definition: unable to find type: github.com/qianjunc/hackernews/graph/model.NewLink 
+`
+
+try this:
+
+`export GO111MODULE=on`
+
